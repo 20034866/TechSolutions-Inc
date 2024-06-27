@@ -4,11 +4,11 @@ The company specializes in managing and operating IT infrastructure for small to
 ### What are we trying to solve in this Assignment?
 In this assignment, we are addressing the following challenges 
 1. Scalability Issues
-* Number 1 Increased Demand:
+* Increased Demand:
 When there is an increase in demand for the company's software solutions, the current on-premises infrastructure struggles to handle the increased load, leading to performance degradation and longer deployment times.
-* Number 2 New Projects:
+* New Projects:
 Onboarding new projects or clients may sometimes demand more computing capability to meet the needs of the clients. The current setup faces difficulty when it comes to quickly growing the resource allocation to meet these new needs.
-* Number 3 Remote Access:
+* Remote Access:
 important documents and other resources, and this results in a number of drawbacks such as when there is a need to complete tasks in minimum time, or when there are certain conditions that require high numbers of employees who may work from homeIt is challenging for employers to allow their employees to have remote access to.
 2. Disaster Recovery and Backup
 The most important aspect that must be pushed in terms of implementation and management is backups since their absence can lead to catastrophic data loss. However, the establishment of an efficient backup management program is quite a challenge, and procedures involve considerable use of resources.
