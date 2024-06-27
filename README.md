@@ -40,16 +40,16 @@ This can be in the form of accommodating multiple operating systems, multiple CP
 ### Explaining benefits in terms of cost.
 Total Estimated Monthly Cost
 Sum of all services:
-* Number 1 Amazon EC2: $7.67
-* Number 2 Amazon RDS: $1.14
-* Number 3 Amazon S3: $0.71
-* Number 4 AWS Secrets Manager: $2.00
-* Number 5 Amazon ECR: $0.24
-* Number 6 Amazon API Gateway: $15.75
-* Number 7 Amazon Route 53: $1.53
-* Number 8 Amazon CloudWatch: $4.75
-* Number 9 Amazon GuardDuty: $8.78
-* Number 10 Amazon SNS: $21.21
+* Amazon EC2: $7.67
+* Amazon RDS: $1.14
+* Amazon S3: $0.71
+* AWS Secrets Manager: $2.00
+* Amazon ECR: $0.24
+* Amazon API Gateway: $15.75
+* Amazon Route 53: $1.53
+* Amazon CloudWatch: $4.75
+* Amazon GuardDuty: $8.78
+* Amazon SNS: $21.21
  
 Total: $63.78 per month 
 
