@@ -1,4 +1,4 @@
-## CLOUDTECH SOLUTIONS INC
+## TECHSOLUTIONS-INC
 ### What does the company do?
 The company specializes in managing and operating IT infrastructure for small to medium sized enterprises, focusing on server management, network management,  security and system monitoring. They are currently transitioning from an on-premises server setup to cloud based infrastructure to enhance scalability, cost efficiency, accessibility and disaster recovery.
 ### What are we trying to solve in this Assignment?
