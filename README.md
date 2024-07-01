@@ -1,5 +1,15 @@
 ## TECHSOLUTIONS-INC
 
+### Tagline – Private Cloud, Delivered Locally 
+### Business Type – Small & Medium sized Enterprise (SME)
+### Industry – Cloud Computing
+### Headquarters – Cork, Ireland
+
+### Mission Statement - CloudTech Solutions is a small and dedicated enterprise, providing cloud services to the upcoming and newly formed organization using on-premises data centers, ensuring privacy, control, and performance to its clients tailored specifically to their needs.
+
+### Business Idea – CloudTech Solutions is a small enterprise providing local support to up-and-coming newly formed companies, catering to their personal needs and requirements. With their on-premises data centers and servers, they can handle and deliver public, private, and hybrid cloud while focusing on Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).  
+
+
 ### What does the company do?
 CloudTech Solutions is a small enterprise providing local support to up-and-coming newly formed companies, catering to their personal needs and requirements. With their on-premises data centers and servers, they can handle and deliver public, private, and hybrid cloud while focusing on Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). They offer on-premises private cloud solutions, Hybrid cloud integration, Manage hosting services, Custom IT infra solutions for thier clients, and provide consulting and support services. 
 
