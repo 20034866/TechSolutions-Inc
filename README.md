@@ -56,18 +56,18 @@ This can be in the form of accommodating multiple operating systems, multiple CP
 
 
 ### Details of cost (in months and dollars).
-EC2 instance for web server                 - USD 60.74
-EC2 instace for application server          - USD 60.30
-EC2 instance for database server            - USD 30.08
-EC2 instance for file storage               - USD 15.04
-EC2 instance for development and testing    - USD 15.04
-EC2 instance for backup and maintainence    - USD 7.52
-Elastic LoadBalancer                        - USD 74.83
-RDS production database                     - USD 2420.32
-RDS for development and testing             - USD 733.68 
+### EC2 instance for web server                 - USD 60.74
+### EC2 instace for application server          - USD 60.30
+### EC2 instance for database server            - USD 30.08
+### EC2 instance for file storage               - USD 15.04
+### EC2 instance for development and testing    - USD 15.04
+### EC2 instance for backup and maintainence    - USD 7.52
+### Elastic LoadBalancer                        - USD 74.83
+### RDS production database                     - USD 2420.32
+### RDS for development and testing             - USD 733.68 
 
-Total monthly cost in dollars               - USD 2806.15
+### Total monthly cost in dollars               - USD 2806.15
 
-Total yearly cost in dollars                - USD 33673.80
+### Total yearly cost in dollars                - USD 33673.80
 
 As we can see from the monthly cost, its quite feasible and less as compared to the on-premises setup.
